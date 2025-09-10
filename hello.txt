@@ -5,3 +5,4 @@ tohle je z mobilu
 GIT GUI
 a ted to skusim sam
 ted to poslu z GIHUBu
+zkusim z VStudia
